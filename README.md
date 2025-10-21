@@ -159,7 +159,7 @@ Check out these great resources to keep going on your journey.
 │   └── 📄 c-build.yml
 ├── 📁 programs/
 │   ├── 📄 bmi_cal.c
-│   └── ... (42 more files)
+│   └── ... 
 ├── 📄 LICENSE
 ├── 📄 Makefile
 └── 📄 README.md
