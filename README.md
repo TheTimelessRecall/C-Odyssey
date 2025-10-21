@@ -88,7 +88,7 @@
 
 ---
 
-## Getting Started
+## Running this
 
 I used a `Makefile` to keep things simple. No need to type `gcc` manually for every program.
 
@@ -99,7 +99,7 @@ I used a `Makefile` to keep things simple. No need to type `gcc` manually for ev
     ```
 
 2.  **Compile the Code:**
-    You can compile all programs at once or just a specific one.
+    Just to let you know that you can compile all programs at once 
     * **Compile all programs:**
         ```bash
         make all
