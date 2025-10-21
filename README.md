@@ -20,13 +20,23 @@
 </p>
 
 ---
+## Overview
 
-## Program Launchpad
+This repository contains 48 programs designed to help beginners understand C programming concepts such as:
 
-This repository's 48 beginner-friendly programs are its main feature. Each one is a step toward becoming proficient in C.
+- Loops and conditionals
+- Functions and recursion
+- Arrays and strings
+- Math and number manipulation
+- Basic game logic
 
-<details>
-<summary><strong>Click to expand the full list of programs</strong></summary>
+Each program is self-contained and easy to compile. They show practical use of C fundamentals.
+
+---
+
+## Program List
+
+<details><summary><strong>Click to expand the full list of programs</strong></summary>
 
 | #  | Program                                                                                                           | Key Concepts                               | Difficulty |
 |:---|:------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------|
