@@ -93,7 +93,7 @@ Each program is self-contained and easy to compile. They show practical use of C
 
 ---
 
-##  How to Get Started
+## How to Get Started
 
 This project uses a `Makefile` to simplify compilation. You no longer need to run `gcc` manually for each file.
 
@@ -128,7 +128,7 @@ This project uses a `Makefile` to simplify compilation. You no longer need to ru
 
 ---
 
-##  Level Up Your C Skills
+## Level Up Your C Skills
 
 Check out these great resources to keep going on your journey.
 
@@ -151,7 +151,7 @@ Check out these great resources to keep going on your journey.
 
 ---
 
-##  Project Layout
+## Project Layout
 ```bash
 
 📁 C-Odyssey/
@@ -179,7 +179,7 @@ If you have improvements or additional beginner-friendly programs, please feel f
 
 ---
 
-##  License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/TheTimelessRecall/C-Odyssey/blob/master/LICENSE) file for more details.
 
