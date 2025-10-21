@@ -148,10 +148,10 @@ Some resources I actually used and liked:
 
 ## Contribute
 
-* **Fork** the repo.
+* First **fork** the repo.
 * Add your `your_awesome_program.c` to the `programs/` folder.
-* Update the table in the `README.md`.
-* Submit the PR.
+* Don't forget to update the table in the `README.md`.
+* Then just submit the PR.
 
 ---
 
