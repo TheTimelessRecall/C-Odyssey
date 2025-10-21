@@ -160,14 +160,12 @@ Check out these great resources to keep going on your journey.
 
 ## Contribute
 
-Found a better way to implement Fibonacci? Got a simple, crucial C concept I missed? **Submit a PR.**
+If you have improvements or additional beginner-friendly programs, please feel free to submit a Pull Request.
 
 * **Fork** the repo.
 * Add your `your_awesome_program.c` to the `programs/` folder.
 * Update the table in the `README.md`.
 * Submit the PR.
-
-If it's clean and actually useful for a beginner, I'll merge it. 
 
 ---
 
