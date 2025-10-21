@@ -88,6 +88,14 @@
 
 ---
 
+### Tic-Tac-Toe Demo
+
+
+  <img src="media/tic_tac_toe_demo.gif" alt="Tic-Tac-Toe in action">
+
+
+---
+
 ## Running this
 
 I used a `Makefile` to keep things simple. No need to type `gcc` manually for every program.
