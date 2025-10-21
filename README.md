@@ -1,4 +1,4 @@
-<h1 align="center">  C Odyssey: A Beginner's Voyage </h1>
+<h1 align="center">  ⛵ C Odyssey: A Beginner's Voyage </h1>
 
 <div align="center">
 
