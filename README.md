@@ -88,7 +88,7 @@
 
 ---
 
-### Tic-Tac-Toe Demo
+## Tic-Tac-Toe Demo
 
 
   <img src="media/tic_tac_toe_demo.gif" alt="Tic-Tac-Toe in action">
@@ -154,7 +154,7 @@ Some resources I actually used and liked:
 
 ---
 
-## Contribute
+## Want to Contribute?
 
 * First **fork** the repo.
 * Add your `your_awesome_program.c` to the `programs/` folder.
