@@ -154,7 +154,7 @@ Some resources I actually used and liked:
 
 ---
 
-## Contribute
+## Want to Contribute?
 
 * First **fork** the repo.
 * Add your `your_awesome_program.c` to the `programs/` folder.
