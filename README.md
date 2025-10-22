@@ -133,8 +133,6 @@ I used a `Makefile` to keep things simple. No need to type `gcc` manually for ev
 
 ## Learning resources
 
-Some resources I actually used and liked:
-
 <details>
 <summary><strong>Expand for learning resources</strong></summary>
 
