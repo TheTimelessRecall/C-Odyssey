@@ -30,8 +30,6 @@
 ---
 
 ## Program List
-
-<details><summary><strong>Click to see all programs</strong></summary>
   
 | #  | Program                                   | Concepts                   | Level |
 |---|-------------------------------------------|--------------------------------------|-------|
@@ -83,8 +81,6 @@
 | 46 | [Sparse Matrix](programs/sparse-matrix-compression.c)| Structs, dynamic memory, compression | Hard |
 | 47 | [Swap XOR](programs/swap_bitwise_xor.c) | Bitwise ops                        | Easy  |
 | 48 | [Tic Tac Toe](programs/tic_tac_toe.c)  | 2D arrays, game logic               | Hard |
-
-</details>
 
 ---
 
