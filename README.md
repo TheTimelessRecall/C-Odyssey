@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="120">
-  <h3>From "Hello World" to Memory Manipulation.</h3>
   <p>
     A roadmap for learning C programming. <br>
   </p>
