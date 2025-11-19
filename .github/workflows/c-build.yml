@@ -8,19 +8,19 @@ on:
 
 jobs:
   quality-check:
-    name: 🛡️ Quality & Build
+    name:  Quality & Build
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Code
       uses: actions/checkout@v4
 
-    - name: 🛠️ Install Tools
+    - name:  Install Tools
       run: |
         sudo apt-get update
         sudo apt-get install -y build-essential clang-format
 
-    - name: 🎨 Check Code Style
+    - name:  Check Code Style
       run: |
         # This command looks for all .c files and checks them against your .clang-format
         # If any file is messy, the build fails immediately.
