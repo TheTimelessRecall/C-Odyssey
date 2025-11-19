@@ -16,6 +16,13 @@
 </p>
 
 
+## Coming from Python?
+
+Confused why `array.append()` doesn't work?
+Check out the **[Python vs C ](./CONCEPTS.md)** to see how your habits translate to C.
+
+
+
 ## The Roadmap
 
 ### [01 Basics](./01_Basics)
