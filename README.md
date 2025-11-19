@@ -24,9 +24,12 @@
 - Functions and recursion
 - Arrays and strings
 - Math and number manipulation
-- Basic game logic
-- Searching and Sorting
-- Dynamic memory and custom utilities
+- Number theory (primes, Armstrong, perfect, etc.)
+- Base conversions (binary/decimal)
+- Searching and sorting (linear, binary, bubble, merge)
+- Basic game logic (Guess Game, Tic Tac Toe)
+- Dynamic memory and custom utility functions (atoi, itoa, custom calloc/memcpy)
+- Intro to data structures (sparse matrix compression)
 
 ---
 
