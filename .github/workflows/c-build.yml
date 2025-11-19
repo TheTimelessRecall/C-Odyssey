@@ -1,23 +1,30 @@
-name: C/C++ CI
+name: C Odyssey CI
 
 on:
   push:
-    branches: ["master", "main"]
+    branches: [ "master", "main" ]
   pull_request:
-    branches: ["master", "main"]
+    branches: [ "master", "main" ]
 
 jobs:
-  build:
+  quality-check:
+    name: 🛡️ Quality & Build
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+    - name: Checkout Code
+      uses: actions/checkout@v4
 
-      - name: Install build dependencies
-        run: sudo apt-get update && sudo apt-get install -y build-essential
+    - name: 🛠️ Install Tools
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential clang-format
 
-      - name: Build programs
-        run: make
+    - name: 🎨 Check Code Style
+      run: |
+        # This command looks for all .c files and checks them against your .clang-format
+        # If any file is messy, the build fails immediately.
+        find . -name "*.c" -not -path "./.*" | xargs clang-format --dry-run --Werror
 
-    
+    - name: 🏗️ Compile Everything
+      run: make
