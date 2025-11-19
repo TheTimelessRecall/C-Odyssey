@@ -15,37 +15,38 @@
   <img src="https://img.shields.io/badge/Code%20Style-Google-orange" alt="Style">
 </p>
 
-## The Syllabus
+
+## The Roadmap
 
 ### [01 Basics](./01_Basics)
 *The absolute building blocks*
-* **What's inside:** Variables, `printf`, `scanf`, simple math, ASCII.
-* **Projects:** BMI Calculator, Temperature Converter.
+* Variables, `printf`, `scanf`, simple math, ASCII.
+* **Check out:** BMI Calculator, Temperature Converter.
 
 ### [02 Control Flow](./02_Control_Flow)
 *Teaching the computer to make decisions.*
-* **What's inside:** `if-else`, `switch` statements, loops (`for`, `while`).
-* **Projects:** Leap Year Checker, Pattern Printing (Floyd's Triangle).
+*  `if-else`, `switch` statements, loops (`for`, `while`).
+* **Check out:** Leap Year Checker, Pattern Printing (Floyd's Triangle).
 
 ### [03 Number Logic](./03_Number_Logic)
 *Algorithms involved in integer properties. Good for interview prep.*
-* **What's inside:** Modulo operator, digit extraction, base conversion.
-* **Projects:** Armstrong Numbers, Binary ↔ Decimal, Number to Words.
+*  Modulo operator, digit extraction, base conversion.
+* **Check out:** Armstrong Numbers, Binary ↔ Decimal, Number to Words.
 
 ### [04 Arrays](./04_Arrays)
 *Handling lists of data*
-* **What's inside:** Indexing, memory layout, bounds checking.
-* **Projects:** Reversing arrays, Finding Min/Max.
+*  Indexing, memory layout, bounds checking.
+* **Check out:** Reversing arrays, Finding Min/Max.
 
 ### [05 Searching & Sorting](./05_Searching_Sorting)
 *Classic Computer Science algorithms you need to know.*
-* **What's inside:** Efficient data retrieval and organization.
-* **Projects:** Bubble Sort, Binary Search, Merge Sort.
+*  Efficient data retrieval and organization.
+* **Check out:** Bubble Sort, Binary Search, Merge Sort.
 
 ### [06 Pointers & Memory](./06_Pointers_Memory)
 *The "scary" stuff (that isn't actually that scary if you pay attention).*
-* **What's inside:** Memory addresses, dynamic allocation (`malloc`/`free`), pointer arithmetic.
-* **Projects:** Custom `atoi`/`itoa`, Sparse Matrix Compression.
+*  Memory addresses, dynamic allocation (`malloc`/`free`), pointer arithmetic.
+* **Check out:** Custom `atoi`/`itoa`, Sparse Matrix Compression.
 
 ### [07 Mini Projects](./07_Mini_Projects)
 *Putting it all together into something usable.*
