@@ -50,8 +50,8 @@
 
 ### [07 Mini Projects](./07_Mini_Projects)
 *Putting it all together into something usable.*
-* 🎮 **Tic-Tac-Toe:** Full game logic with 2D arrays.
-* 🎲 **Number Guessing Game:** Random generation and loops.
+* **Tic-Tac-Toe:** Full game logic with 2D arrays.
+* **Number Guessing Game:** Random generation and loops.
 
 ---
 
