@@ -18,17 +18,20 @@
 ---
 ## Topics I covered
 
-50 small C programs covering stuff like:
+<details>
+<summary><strong>Expand Here</strong></summary>
 
-- Loops and conditionals
-- Functions and recursion
-- Arrays and strings
-- Math and number manipulation
-- Number theory (primes, Armstrong, perfect, etc.)
-- Base conversions (binary/decimal)
-- Searching and sorting (linear, binary, bubble, merge)
-- Basic game logic (Guess Game, Tic Tac Toe)
-- Dynamic memory and custom utility functions (atoi, itoa, custom calloc/memcpy)
+- Loops and conditionals  
+- Functions and recursion  
+- Arrays and strings  
+- Math and number manipulation  
+- Number theory (Armstrong, prime, perfect, etc.)  
+- Base conversions (binary ↔ decimal)  
+- Searching and sorting (linear, binary, bubble, merge)  
+- Basic game logic (Guess Game, Tic Tac Toe)  
+- Dynamic memory + custom utilities (`atoi`, `itoa`, custom calloc/memcpy)  
+
+</details>
 
 ---
 
