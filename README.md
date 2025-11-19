@@ -84,6 +84,16 @@ I used a `Makefile` to keep things simple. No need to type `gcc` manually for ev
 
 ---
 
+## Where to Learn C
+
+### Course
+* **[CS50x (Harvard)](https://cs50.harvard.edu/x/):** The gold standard. It is free, difficult, and covers the computer science concepts
+
+### Youtube Playlist
+* **[Jacob Sorber](https://www.youtube.com/c/JacobSorber/videos):** A computer science professor who explains *exactly* what happens in memory
+
+---
+
 ## Tic-Tac-Toe Demo
 
 ![Tic Tac Toe](media/tic_tac_toe_demo.gif)
