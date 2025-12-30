@@ -16,52 +16,21 @@
 </p>
 
 
+## Content
 
 
 
-## The Roadmap
+| Section | What you gonna Learn | Projects & Docs |
+| --- | --- | --- |
+| **[00 Prep Work](./CONCEPTS.md)** | Start here if you are coming from Python to understand why C is manual and strict. | Read:  [Python Vs C](./CONCEPTS.md) |
+| **[01 Basics](./01_Basics)** | The basics like variables, printing text, taking input, and doing simple math. | BMI Calculator, Temp Converter |
+| **[02 Control Flow](./02_Control_Flow)** | How to make the code make decisions using if statements and loops. | Leap Year Checker, Pattern Printing |
+| **[03 Number Logic](./03_Number_Logic)** | Algorithms for handling integers and digits that often show up in interviews. | Armstrong Numbers, Binary ↔ Decimal |
+| **[04 Arrays](./04_Arrays)** | Working with lists of data, handling indexes, and checking memory bounds. | Reversing Arrays, Finding Min/Max |
+| **[05 Searching & Sorting](./05_Searching_Sorting)** | Essential computer science algorithms for finding and organizing data efficiently. | Bubble Sort, Binary Search |
+| **[06 Pointers & Memory](./06_Pointers_Memory)** | Understanding memory addresses and how to manually allocate memory without crashing. | Custom atoi, Sparse Matrix |
+| **[07 Mini Projects](./07_Mini_Projects)** | Combining all the previous topics to build actual functional games. | Tic-Tac-Toe, Number Guesser |
 
-### [00 Prep Work](./CONCEPTS.md)
-*Coming from Python ? Start here.*
-* Understanding why C doesn't have `append()` or automatic memory.
-* **Read:** [Python Vs C Programing](./CONCEPTS.md)
-
-### [01 Basics](./01_Basics)
-*The absolute building blocks*
-* Variables, `printf`, `scanf`, simple math, ASCII.
-* **Check out:** BMI Calculator, Temperature Converter.
-
-### [02 Control Flow](./02_Control_Flow)
-*Teaching the computer to make decisions.*
-*  `if-else`, `switch` statements, loops (`for`, `while`).
-* **Check out:** Leap Year Checker, Pattern Printing (Floyd's Triangle).
-
-### [03 Number Logic](./03_Number_Logic)
-*Algorithms involved in integer properties. Good for interview prep.*
-*  Modulo operator, digit extraction, base conversion.
-* **Check out:** Armstrong Numbers, Binary ↔ Decimal, Number to Words.
-
-### [04 Arrays](./04_Arrays)
-*Handling lists of data*
-*  Indexing, memory layout, bounds checking.
-* **Check out:** Reversing arrays, Finding Min/Max.
-
-### [05 Searching & Sorting](./05_Searching_Sorting)
-*Classic Computer Science algorithms you need to know.*
-*  Efficient data retrieval and organization.
-* **Check out:** Bubble Sort, Binary Search, Merge Sort.
-
-### [06 Pointers & Memory](./06_Pointers_Memory)
-*The "scary" stuff (that isn't actually that scary if you pay attention).*
-*  Memory addresses, dynamic allocation (`malloc`/`free`), pointer arithmetic.
-* **Check out:** Custom `atoi`/`itoa`, Sparse Matrix Compression.
-
-### [07 Mini Projects](./07_Mini_Projects)
-*Putting it all together into something usable.*
-* **Tic-Tac-Toe:** Full game logic with 2D arrays.
-* **Number Guessing Game:** Random generation and loops.
-
----
 
 
 ## Running this
