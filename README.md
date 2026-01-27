@@ -20,7 +20,7 @@
 
 
 
-| Section | What you gonna Learn | Projects & Docs |
+| Section | What you gonna Learn | Projects |
 | --- | --- | --- |
 | **[01 Basics](./01_Basics)** | basics like variables, printing text, taking input, and doing simple math. | BMI Calculator, Temp Converter |
 | **[02 Control Flow](./02_Control_Flow)** | making decisions using if statements and loops. | Leap Year Checker, Pattern Printing |
