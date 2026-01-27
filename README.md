@@ -22,7 +22,7 @@
 
 | Section | What you gonna Learn | Projects & Docs |
 | --- | --- | --- |
-| **[01 Basics](./01_Basics)** | The basics like variables, printing text, taking input, and doing simple math. | BMI Calculator, Temp Converter |
+| **[01 Basics](./01_Basics)** | basics like variables, printing text, taking input, and doing simple math. | BMI Calculator, Temp Converter |
 | **[02 Control Flow](./02_Control_Flow)** | making decisions using if statements and loops. | Leap Year Checker, Pattern Printing |
 | **[03 Number Logic](./03_Number_Logic)** | Algorithms for handling integers and digits. | Armstrong Numbers, Binary ↔ Decimal |
 | **[04 Arrays](./04_Arrays)** | Working with lists of data, handling indexes, and checking memory bounds. | Reversing Arrays, Finding Min/Max |
