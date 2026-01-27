@@ -22,12 +22,11 @@
 
 | Section | What you gonna Learn | Projects & Docs |
 | --- | --- | --- |
-| **[00 Prep Work](./CONCEPTS.md)** | Start here if you are coming from Python to understand why C is manual and strict. | Read:  [Python Vs C](./CONCEPTS.md) |
 | **[01 Basics](./01_Basics)** | The basics like variables, printing text, taking input, and doing simple math. | BMI Calculator, Temp Converter |
-| **[02 Control Flow](./02_Control_Flow)** | How to make the code make decisions using if statements and loops. | Leap Year Checker, Pattern Printing |
-| **[03 Number Logic](./03_Number_Logic)** | Algorithms for handling integers and digits that often show up in interviews. | Armstrong Numbers, Binary ↔ Decimal |
+| **[02 Control Flow](./02_Control_Flow)** | making decisions using if statements and loops. | Leap Year Checker, Pattern Printing |
+| **[03 Number Logic](./03_Number_Logic)** | Algorithms for handling integers and digits. | Armstrong Numbers, Binary ↔ Decimal |
 | **[04 Arrays](./04_Arrays)** | Working with lists of data, handling indexes, and checking memory bounds. | Reversing Arrays, Finding Min/Max |
-| **[05 Searching & Sorting](./05_Searching_Sorting)** | Essential computer science algorithms for finding and organizing data efficiently. | Bubble Sort, Binary Search |
+| **[05 Searching & Sorting](./05_Searching_Sorting)** | computer science algorithms for finding and organizing data efficiently. | Bubble Sort, Binary Search |
 | **[06 Pointers & Memory](./06_Pointers_Memory)** | Understanding memory addresses and how to manually allocate memory without crashing. | Custom atoi, Sparse Matrix |
 | **[07 Mini Projects](./07_Mini_Projects)** | Combining all the previous topics to build actual functional games. | Tic-Tac-Toe, Number Guesser |
 
