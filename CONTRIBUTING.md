@@ -1,8 +1,7 @@
-# Contributing to C Odyssey 🌊
+# Contributing 
 
-First off, thanks for taking the time to contribute! 🎉
+First off, thanks for taking the time to contribute
 
-This project is about learning C the *right* way. We want clean, readable, and educational code.
 
 ##  How to Submit Changes
 
